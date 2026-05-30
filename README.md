@@ -8,7 +8,7 @@ This project analyzes coffee shop sales data to uncover customer purchasing patt
 
 The primary objective of this project was to identify key factors influencing sales performance and provide data-driven recommendations to improve business outcomes across multiple store locations.
 
-<img width="1863" height="760" alt="Dashboard" src="https://github.com/user-attachments/assets/1ca2e48b-541a-4469-8748-79e8daa7253c" />
+<img width="1863" height="760" alt="Dashboard" src="https://github.com/user-attachments/assets/962ea31e-5a73-4faf-bea7-9c4b1502c562" />
 
 
 ## Key Insights
